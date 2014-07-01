@@ -1,5 +1,6 @@
 #
 # Original version by Grant Parnell is offline (http://digitaldj.net/2011/07/21/trim-enabler-for-lion/)
+# Update July 2014: no longer offline, see https://digitaldj.net/blog/2011/11/17/trim-enabler-for-os-x-lion-mountain-lion-mavericks/
 #
 # Looks for "Apple" string in HD kext, changes it to a wildcard match for anything
 #
